@@ -17,7 +17,7 @@ An interactive Excel dashboard project designed to analyze hotel booking data an
 
 
 - Dashboard interaction 
-- <href="https://github.com/amitgupta654312-alt/Data-Analysis-Dashboard/blob/main/Screenshot%202026-11-16%20193520.png">view dashboard</a>
+- <a href="https://github.com/amitgupta654312-alt/Data-Analysis-Dashboard/blob/main/Screenshot%202026-11-16%20193520.png">view dashboard</a>
 
 
 

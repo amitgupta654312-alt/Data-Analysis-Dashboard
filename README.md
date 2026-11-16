@@ -16,8 +16,8 @@ An interactive Excel dashboard project designed to analyze hotel booking data an
 -	How do booking and cancellation figures change when selecting different years?
 
 
-# Dashboard interaction 
-- <href = " "> </a>
+- Dashboard interaction 
+- <href="https://github.com/amitgupta654312-alt/Data-Analysis-Dashboard/blob/main/Screenshot%202026-11-16%20193520.png">view dashboard</a>
 
 
 
